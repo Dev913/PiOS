@@ -6,8 +6,9 @@ It was originally developed only for the Pi (Raspberry Pi) i have decided to kee
 See Pi is obvious but look at such title this way... iOS.
 
 # What can you do with such so far?
-* Put Victims iOS Device In Respring Loop.
+* Put Victims iOS Device Into A Respring Loop.
 * Restart Victims iOS Device.
+* Put Victims iOS Device Into A Application Open/Close Loop (May Not Work All The Time!)
 
 # User TODO List
 * Make Sure That Data File Does Have Your Victims iOS Device IP!
